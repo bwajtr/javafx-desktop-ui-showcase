@@ -1,9 +1,9 @@
 # JavaFX Desktop UI Showcase
 
 This is just a JavaFX sample application to show capabilities of JavaFX in JDK1.8.
-To be precise, it's here just to showcase relation between fxml files, their controllers and how to it would be possible to build a desktiop UI application using JavaFX technology.
+To be precise, it's here just to showcase relation between fxml files, their controllers and how it would be possible to build a desktop UI application using JavaFX technology.
 
-Java desktop UI came a long way since AWT and Swing... nice...
+This is definitely a nice way how to build UI. Java desktop UI came a long way since AWT and Swing... awesome...
 
 ### What to expect
 
@@ -13,7 +13,7 @@ This is how the running sample should look like:
 
 ### How to
 
-You have to have JDK8 installed and use JRE 1.8 to run the example. I'm using maven with executable jar feature, so just:
+You have to have JDK 8 installed and use JRE 8 to run the example. I'm using maven with executable jar feature, so just:
 
 1. Run `mvn install`
 2. Go to target directory
