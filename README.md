@@ -5,6 +5,12 @@ To be precise, it's here just to showcase relation between fxml files, their con
 
 Java desktop UI came a long way since AWT and Swing... nice...
 
+### What to expect
+
+This is how the running sample should look like:
+
+![Expected output image](/expectedOutput.png?raw=true "Expected output image")
+
 ### How to
 
 You have to have JDK8 installed and use JRE 1.8 to run the example. I'm using maven with executable jar feature, so just:
